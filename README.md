@@ -26,4 +26,4 @@ I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with 2+ years of e
 - [Natural Cure (Shopify)](https://store.pabnagroup.net/)
 - [Portfolio](https://z4yed.netlify.app/)
 
-Feel free to connect with me on [LinkedIn](Your LinkedIn Profile URL).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zayed-hassan).
