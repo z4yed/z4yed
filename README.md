@@ -9,7 +9,6 @@ I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with 2+ years of e
 - **DevOps:** Amazon EC2, Amazon S3, Linux shell, CI/CD
 - **Problem Solving:** Strong problem-solving skills
 - **Collaboration:** Collaborative team player with excellent communication skills
-- **Version Control:** Familiarity with Git
 - **Integration:** Experience in integrating 3rd party services such as OpenWeatherMap, TrustPilot, Google Analytics, etc.
 - **Typing Speed:** Average 70 words per minute (WPM)
 - **Language Proficiency:** IELTS GT Overall Score - 6.5
