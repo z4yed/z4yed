@@ -21,6 +21,7 @@ I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with 2+ years of e
 
 ## Projects
 
+- [TheMovieCentral](https://tmdb-client.vercel.app)
 - [Pabna Group](https://pabnagroup.net)
 - [Portfolio](https://z4yed.netlify.app/)
 
