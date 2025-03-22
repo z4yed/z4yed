@@ -1,6 +1,6 @@
 # Hi there, I'm MD ZAYED HASSAN 👋
 
-I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with 3+ years of experience in software development. I'm passionate about building robust and user-friendly web applications.
+I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with around 4 years of experience in software development. I'm passionate about building robust and user-friendly web applications.
 
 ## Skills and Qualifications
 
@@ -22,6 +22,6 @@ I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with 3+ years of e
 ## Projects
 
 - [TheMovieCentral](https://tmdb-client.vercel.app)
-- [Portfolio](https://z4yed.netlify.app/)
+- [Portfolio](https://z4yed.vercel.app/)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/z4yed).
