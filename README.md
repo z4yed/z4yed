@@ -4,12 +4,10 @@ I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with around 4 year
 
 ## Skills and Qualifications
 
-- **Backend Development:** PHP Laravel, Queues and Jobs, Task Scheduling, WebSockets, RESTful API design, MySQL databases, Basic NodeJS etc.
-- **Frontend Development:** React.js, Vue.js, Raw JS, SCSS, TailwindCSS etc. 
-- **DevOps:** AWS - EC2, S3, CloudFront, CloudFormation, MediaConvert, Lambda, Transcribe, Translate etc; Ngrok; Linux Shell etc.
-- **Problem Solving:** Strong problem-solving skills.
-- **Collaboration:** Collaborative team player with excellent communication skills.
-- **Integration:** Experience in integrating 3rd party services such as OpenTelemetry, OpenWeatherMap, TrustPilot, Google Analytics, BucketAV etc.
+- **Backend Development:** PHP Laravel, FilamentPHP, Queues and Jobs, Task Scheduling, WebSockets, RESTful API design, MySQL databases, Basic NodeJS etc.
+- **Frontend Development:** Vue.js, React.js, Raw JS, SCSS, TailwindCSS etc. 
+- **DevOps:** AWS - EC2, S3, CloudFront, EventBridge, CloudFormation, MediaConvert, Lambda, Transcribe, Translate etc; Ngrok; Linux Shell etc.
+- **Integration:** Experience in integrating 3rd party services such as Payment Gateways, OpenTelemetry, OpenWeatherMap, TrustPilot, Google Analytics, BucketAV etc.
 - **Typing Speed:** Average 75 words per minute (WPM).
 - **Language Proficiency:** IELTS GT Overall Score - 6.5
 
@@ -20,8 +18,8 @@ I'm a Full Stack Software Engineer based in Dhaka, Bangladesh with around 4 year
   - CGPA: 3.97 / 4.00
 
 ## Projects
-
+- [Schoolism](https://schoolism.com)
 - [TheMovieCentral](https://tmdb-client.vercel.app)
-- [Portfolio](https://z4yed.vercel.app/)
+- [Portfolio](https://zayed-hassan.dev/)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/z4yed).
